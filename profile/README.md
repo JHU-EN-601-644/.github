@@ -1,5 +1,7 @@
 # Medical Device Cybersecurity
 
+## Course Overview 
+
 The course [EN.601.444/644](https://isi.jhu.edu/academics/program-requirements-2/mssi-course-distribution/) and [EP.695.74](https://ep.jhu.edu/courses/695724-medical-device-security/) Medical Device Cybersecurity offers a comprehensive examination of the FDA's final cybersecurity guidance for premarket submissions and postmarket activities, emphasizing its requirements and the practical application of processes to achieve compliance.
 
 Students will gain a deep understanding of how these guidelines influence the development of medical devices, spanning the entire lifecycle from initial design and development to final deployment. The curriculum emphasizes methodologies required to meet these standards, focusing on applying threat modeling, conducting cybersecurity risk assessments, and performing penetration testing adapted to clinical environments.
@@ -13,6 +15,7 @@ In this project, students will collaborate to develop a functioning medical devi
 This hands-on approach provides experience in technical development, data security, regulatory compliance, and quality management within the medical device industry.
 
 ## Latest News
+
 * D. Donovan, "Johns Hopkins students thwart fitness tracker hackers," *Johns Hopkins University Hub*, May 20, 2025. [https://hub.jhu.edu/2025/05/20/medical-devices-cybersecurity-class-hopkins/](https://hub.jhu.edu/2025/05/20/medical-devices-cybersecurity-class-hopkins/).
 
 ## Past Projects
